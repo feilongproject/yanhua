@@ -10,6 +10,8 @@
 点击右上角![00](https://i.loli.net/2020/01/26/bwiZyIcAzRjtokE.jpg)即可打开设置。
 ### 关于暂停播放
 点击左上角![00](https://i.loli.net/2020/01/26/h1ctuRrZvKkB3i2.jpg)或![01](https://i.loli.net/2020/01/26/AEIdKY241SvwcTz.jpg)即可暂停/播放烟花。
+### 关于播放速度
+拖动底部可以调整烟花播放速度大小（左→右--->慢→快）
 ## 展示图片
 ![00](https://i.loli.net/2020/01/26/gWchIvxO2PR75Vk.jpg)
 ![01](https://i.loli.net/2020/01/26/qhUZ6eEBpJaTI1Q.jpg)
